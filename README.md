@@ -1,4 +1,4 @@
-- 👋 Chào, tôi @VbeeGamerVN
+- 👋 Chào, tôi @BeeAz
 - 👀 tôi quan tâm đến plugin việt hoá
 - 🌱 hiện đang học THPT
 - 💞️ tôi đang tìm cách hợp tác trên github
