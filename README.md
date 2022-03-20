@@ -6,9 +6,4 @@
 ## Top repos:
 
 - [OneBlock](https://github.com/BeeAZZ/Oneblock-PM4)
-- [NightVision](https://github.com/BeeAZZ/NightVision)
-
-- 👋 Hi I Am @BeeAZZ
-- 👀 I'm a Developer
-- 🌱 I love posting plugins to Poggit
-- 💞️ I Love Github
+- [AntiXray](https://github.com/BeeAZZ/AntiXrayPE)
