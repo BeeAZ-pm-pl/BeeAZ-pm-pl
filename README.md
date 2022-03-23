@@ -1,4 +1,4 @@
-## Poggit Plugins
+## Plugin Poggit Approved
 
 Plugins | State | API | Downloads Total | Downloads |
 | :-----: | :---: | :-: | :-------------: | :-------: |
