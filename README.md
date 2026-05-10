@@ -102,20 +102,6 @@
 
 ---
 
-# ⚡ Fun Code
-
-```php
-<?php
-
-while(true){
-    code();
-    sleep();
-    repeat();
-}
-```
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=140&section=footer"/>
