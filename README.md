@@ -1,8 +1,10 @@
 # 📊 Developer Statistics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeeAZ-pm-pl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats của Đạt" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeeAZ-pm-pl&layout=compact&theme=tokyonight&hide_border=true" alt="Ngôn ngữ hàng đầu" height="192px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeeAZ-pm-pl&theme=tokyonight" alt="Stats của Đạt" width="500px" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeeAZ-pm-pl&theme=tokyonight&utcOffset=7" alt="Thời gian Code" width="500px" />
 </p>
 
 ---
