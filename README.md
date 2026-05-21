@@ -42,14 +42,6 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeeAZ-pm-pl&theme=tokyonight&utcOffset=7" width="60%" />
-
-</div>
-
----
-
 # 💻 Tech Stack
 
 <div align="center">
