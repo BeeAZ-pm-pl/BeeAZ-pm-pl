@@ -43,9 +43,7 @@
 # ⚡ Profile Summary
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeeAZ-pm-pl&theme=tokyonight" width="100%" />
-
+  <img src="https://github-readme-stats.vercel.com/api?username=BeeAZ-pm-pl&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
 </div>
 
 ---
@@ -53,13 +51,9 @@
 # 📌 Detailed Statistics
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeeAZ-pm-pl&theme=tokyonight" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeeAZ-pm-pl&theme=tokyonight" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeeAZ-pm-pl&theme=tokyonight" width="32%" />
-
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=BeeAZ-pm-pl&layout=compact&theme=tokyonight" width="48%" />
+  
 </div>
 
 <br>
