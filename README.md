@@ -40,22 +40,6 @@
 
 ---
 
-# ⚡ Profile Summary
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.com/api?username=BeeAZ-pm-pl&show_icons=true&theme=tokyonight&count_private=true" width="100%" />
-</div>
-
----
-
-# 📌 Detailed Statistics
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=BeeAZ-pm-pl&layout=compact&theme=tokyonight" width="48%" />
-  
-</div>
-
 <br>
 
 <div align="center">
